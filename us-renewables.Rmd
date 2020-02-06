@@ -1,0 +1,11 @@
+---
+title: 'lab week 5: time series and a map'
+author: "Renee Albrecht"
+date: "February 6, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
